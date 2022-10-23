@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+
+img[title="Welcome to Exceptional Realty Group"]{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+/*  width: 100%; */
+}
+h1{
+  text-align: center;
+}
+
+a{
+  padding-right: 10px;
+  padding-right: 10px;
+  font-weight: bolder;
+  color: rgb(64, 11, 0);
+  background-color: bisque;
+}
+
+section[id="featured-property"]{
+  text-align: center;
+  font-size: smaller;
+}
+
+a.featured-property {
+color: red;
+
+}
+
